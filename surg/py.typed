@@ -1,0 +1,6 @@
+"""
+Type stubs for the SURG package.
+
+This file indicates that the package provides type information
+for static type checkers like mypy.
+"""
