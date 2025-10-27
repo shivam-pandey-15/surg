@@ -217,5 +217,3 @@ print(f"CUDA version: {torch.version.cuda if torch.cuda.is_available() else 'N/A
 - ✅ Will automatically use GPU when you run on GPU systems
 - ✅ No code changes needed
 - ✅ Same installation works everywhere
-
-**No action needed** - your package will automatically accelerate on GPU systems while working perfectly on CPU-only systems!
